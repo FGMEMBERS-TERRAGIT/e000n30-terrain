@@ -1,0 +1,6 @@
+OBJECT_BASE 3006107.btg
+OBJECT DAUG.btg
+OBJECT_SHARED Models/Airport/windsock.xml 3.821144 32.371134 432.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.793851 32.384862 447.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.797140 32.384096 445.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 3.794984 32.401768 454.6 0.00

@@ -1,0 +1,5 @@
+OBJECT_BASE 2957432.btg
+OBJECT LECN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 0.022971 39.996235 0.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 0.027071 40.001840 -0.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 0.026519 39.995056 1.7 0.00

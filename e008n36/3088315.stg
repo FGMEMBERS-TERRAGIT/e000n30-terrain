@@ -1,0 +1,5 @@
+OBJECT_BASE 3088315.btg
+OBJECT DTKA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.858594 36.981483 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.891656 36.978848 64.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.875220 36.981587 -9999.0 0.00
